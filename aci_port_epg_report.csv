@@ -1,0 +1,213 @@
+Node,Interface,Status,Deployed_EPGs,Interface_Profile,Selector,Policy_Group,Switch_Profile
+1007,eth1/24,up,None (Unbound),W7XPRABBYPW03_P1_DATA_ifp,W7XPRABBYPW03_P1_DATA,accbundle-W7XPRABBYPW03_P1_DATA_ifpg,1007-1008
+1008,eth1/24,up,None (Unbound),W7XPRABBYPW03_P1_DATA_ifp,W7XPRABBYPW03_P1_DATA,accbundle-W7XPRABBYPW03_P1_DATA_ifpg,1007-1008
+1007,eth1/21,up,None (Unbound),W7XSTPIPWP01_P1_DATA_ifp,W7XSTPIPWP01_P1_DATA,accbundle-W7XSTPIPWP01_P1_DATA_ifpg,1007-1008
+1008,eth1/21,up,None (Unbound),W7XSTPIPWP01_P1_DATA_ifp,W7XSTPIPWP01_P1_DATA,accbundle-W7XSTPIPWP01_P1_DATA_ifpg,1007-1008
+1007,eth1/20,up,None (Unbound),W7XPRABBYPW06_P1_DATA_ifp,W7XPRABBYPW06_P1_DATA,accbundle-W7XPRABBYPW06_P1_DATA_ifpg,1007-1008
+1008,eth1/20,up,None (Unbound),W7XPRABBYPW06_P1_DATA_ifp,W7XPRABBYPW06_P1_DATA,accbundle-W7XPRABBYPW06_P1_DATA_ifpg,1007-1008
+1007,eth1/19,up,None (Unbound),W7XPRABBYPW04_P1_DATA_ifp,W7XPRABBYPW04_P1_DATA,accbundle-W7XPRABBYPW04_P1_DATA_ifpg,1007-1008
+1008,eth1/19,up,None (Unbound),W7XPRABBYPW04_P1_DATA_ifp,W7XPRABBYPW04_P1_DATA,accbundle-W7XPRABBYPW04_P1_DATA_ifpg,1007-1008
+1007,eth1/18,up,None (Unbound),W7XPRPIPAWP01_DATA_ifp,W7XPRPIPAWP01_DATA,accbundle-W7XPRPIPAWP01_DATA_ifpg,1007-1008
+1008,eth1/18,up,None (Unbound),W7XPRPIPAWP01_DATA_ifp,W7XPRPIPAWP01_DATA,accbundle-W7XPRPIPAWP01_DATA_ifpg,1007-1008
+1007,eth1/17,up,None (Unbound),W7XPRPIPRWP01_P1_DATA_ifp,W7XPRPIPRWP01_P1_DATA,accbundle-W7XPRPIPRWP01_P1_DATA_ifpg,1007-1008
+1008,eth1/17,up,None (Unbound),W7XPRPIPRWP01_P1_DATA_ifp,W7XPRPIPRWP01_P1_DATA,accbundle-W7XPRPIPRWP01_P1_DATA_ifpg,1007-1008
+1007,eth1/22,up,None (Unbound),W7XSTPIPWP01_P2_DATA_ifp,W7XSTPIPWP01_P2_DATA,accbundle-W7XSTPIPWP01_P2_DATA_ifpg,1007-1008
+1008,eth1/22,up,None (Unbound),W7XSTPIPWP01_P2_DATA_ifp,W7XSTPIPWP01_P2_DATA,accbundle-W7XSTPIPWP01_P2_DATA_ifpg,1007-1008
+1007,eth1/16,up,None (Unbound),W7XPRABBYPW05_P1_DATA_ifp,W7XPRABBYPW05_P1_DATA,accbundle-W7XPRABBYPW05_P1_DATA_ifpg,1007-1008
+1008,eth1/16,up,None (Unbound),W7XPRABBYPW05_P1_DATA_ifp,W7XPRABBYPW05_P1_DATA,accbundle-W7XPRABBYPW05_P1_DATA_ifpg,1007-1008
+1007,eth1/23,up,None (Unbound),BOW7XDCXP001_P2_DATA_ifp,BOW7XDCXP001_P2_DATA,accbundle-BOW7XDCXP001_P2_DATA_ifpg,1007-1008
+1008,eth1/23,up,None (Unbound),BOW7XDCXP001_P2_DATA_ifp,BOW7XDCXP001_P2_DATA,accbundle-BOW7XDCXP001_P2_DATA_ifpg,1007-1008
+1007,eth1/15,up,None (Unbound),W7XBCKTSH10_P1_DATA_ifp,W7XBCKTSH10_P1_DATA,accbundle-W7XBCKTSH10_P1_DATA_ifpg,1007-1008
+1008,eth1/15,up,None (Unbound),W7XBCKTSH10_P1_DATA_ifp,W7XBCKTSH10_P1_DATA,accbundle-W7XBCKTSH10_P1_DATA_ifpg,1007-1008
+1003,eth1/26,up,Production-TNT/Network-Centric_ANP/VLAN194_192.168.4.0,W7th-PureStorage_MGMT,W7th-PureStorage_MGMT,accportgrp-Access_Vlan194_ifpg,1003
+1003,eth1/25,up,Production-TNT/Network-Centric_ANP/VLAN194_192.168.4.0,W7th-Brocade-MGMT,W7th-Brocade-MGMT,accportgrp-Access_Vlan194_ifpg,1003
+1003,eth1/1,down,None (Unbound),W7XPRSQLCWP02,W7XPRSQLCWP02_ifp,accbundle-W7XPRSQLCWP02,1003
+1003,eth1/2,down,None (Unbound),W7XPRSQLCWP02,W7XPRSQLCWP02_ifp,accbundle-W7XPRSQLCWP02,1003
+1003,eth1/3,down,None (Unbound),W7XPRSQLCWP02,W7XPRSQLCWP02_ifp,accbundle-W7XPRSQLCWP02,1003
+1003,eth1/4,down,None (Unbound),W7XPRSQLCWP02,W7XPRSQLCWP02_ifp,accbundle-W7XPRSQLCWP02,1003
+1008,eth1/1,up,Production-TNT/Network-Centric_ANP/VLAN197_192.168.7.0,L-1008-MGMT-UTIL,L1008-P1,accportgrp-1gbps_standard,1008
+1008,eth1/25,up,Production-TNT/Network-Centric_ANP/VLAN22_10.7.22.0,W7XBCKTSH07_P1_DATA_ifp,W7XBCKTSH07_P1_DATA,accportgrp-1gbps_standard,1008
+1005,eth1/11,down,None (Unbound),L1005-L1006-vPC-Generic,Cohesity-Test-srv_eth1_2,accbundle-w7x-cohesity-test-srv_ifpg,1005-1006
+1006,eth1/11,down,None (Unbound),L1005-L1006-vPC-Generic,Cohesity-Test-srv_eth1_2,accbundle-w7x-cohesity-test-srv_ifpg,1005-1006
+1005,eth1/17,up,None (Unbound),W7XPRSQLCWP02_DATA_ifp,W7XPRSQLCWP02_DATA,accbundle-W7XPRSQLCWP02_DATA_ifpg,1005-1006
+1005,eth1/18,up,None (Unbound),W7XPRSQLCWP02_DATA_ifp,W7XPRSQLCWP02_DATA,accbundle-W7XPRSQLCWP02_DATA_ifpg,1005-1006
+1006,eth1/17,up,Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0,W7XPRSQLCWP02_DATA_ifp,W7XPRSQLCWP02_DATA,accbundle-W7XPRSQLCWP02_DATA_ifpg,1005-1006
+1006,eth1/18,up,None (Unbound),W7XPRSQLCWP02_DATA_ifp,W7XPRSQLCWP02_DATA,accbundle-W7XPRSQLCWP02_DATA_ifpg,1005-1006
+1005,eth1/19,up,None (Unbound),W7XPRSQLCWP01_DATA_ifp,W7XPRSQLCWP01_DATA,accbundle-W7XPRSQLCWP01_DATA_ifpg,1005-1006
+1005,eth1/20,up,None (Unbound),W7XPRSQLCWP01_DATA_ifp,W7XPRSQLCWP01_DATA,accbundle-W7XPRSQLCWP01_DATA_ifpg,1005-1006
+1006,eth1/19,up,None (Unbound),W7XPRSQLCWP01_DATA_ifp,W7XPRSQLCWP01_DATA,accbundle-W7XPRSQLCWP01_DATA_ifpg,1005-1006
+1006,eth1/20,up,None (Unbound),W7XPRSQLCWP01_DATA_ifp,W7XPRSQLCWP01_DATA,accbundle-W7XPRSQLCWP01_DATA_ifpg,1005-1006
+1001,eth1/39,up,None (Unbound),w7x-cohesity-11_ifp,w7x-cohesity-11_ifsel,accbundle-w7x-cohesity-11_ifpg,1001-1002
+1002,eth1/39,up,None (Unbound),w7x-cohesity-11_ifp,w7x-cohesity-11_ifsel,accbundle-w7x-cohesity-11_ifpg,1001-1002
+1001,eth1/38,up,None (Unbound),w7x-cohesity-10_ifp,w7x-cohesity-10_ifsel,accbundle-w7x-cohesity-10_ifpg,1001-1002
+1002,eth1/38,up,None (Unbound),w7x-cohesity-10_ifp,w7x-cohesity-10_ifsel,accbundle-w7x-cohesity-10_ifpg,1001-1002
+1001,eth1/37,up,None (Unbound),w7x-cohesity-09_ifp,w7x-cohesity-09_ifsel,accbundle-w7x-cohesity-09_ifpg,1001-1002
+1002,eth1/37,up,None (Unbound),w7x-cohesity-09_ifp,w7x-cohesity-09_ifsel,accbundle-w7x-cohesity-09_ifpg,1001-1002
+1001,eth1/33,up,None (Unbound),w7x-cohesity-05_ifp,w7x-cohesity-05_ifsel,accbundle-w7x-cohesity-05_ifpg,1001-1002
+1002,eth1/33,up,None (Unbound),w7x-cohesity-05_ifp,w7x-cohesity-05_ifsel,accbundle-w7x-cohesity-05_ifpg,1001-1002
+1001,eth1/3,down,None (Unbound),DellChassis_ifp,MX1000,accbundle-MX1000,1001-1002
+1001,eth1/4,down,None (Unbound),DellChassis_ifp,MX1000,accbundle-MX1000,1001-1002
+1002,eth1/3,down,None (Unbound),DellChassis_ifp,MX1000,accbundle-MX1000,1001-1002
+1002,eth1/4,down,None (Unbound),DellChassis_ifp,MX1000,accbundle-MX1000,1001-1002
+1001,eth1/44,down,None (Unbound),W7X-UCSX-FI-B-ifp,if-L1001-P44-UCSx-FI-B-P43-44,accbundle-ifpg-W7th-static-UCSx-FI-B-P43-44,1001-1002
+1001,eth1/27,up,None (Unbound),W7X-UCSX-FI-B-ifp,W7X-UCSX-FI-B-ifsel,accbundle-W7X-UCSX-FI-B-ifpg,1001-1002
+1001,eth1/28,up,None (Unbound),W7X-UCSX-FI-B-ifp,W7X-UCSX-FI-B-ifsel,accbundle-W7X-UCSX-FI-B-ifpg,1001-1002
+1002,eth1/44,down,None (Unbound),W7X-UCSX-FI-B-ifp,if-L1001-P44-UCSx-FI-B-P43-44,accbundle-ifpg-W7th-static-UCSx-FI-B-P43-44,1001-1002
+1002,eth1/27,up,None (Unbound),W7X-UCSX-FI-B-ifp,W7X-UCSX-FI-B-ifsel,accbundle-W7X-UCSX-FI-B-ifpg,1001-1002
+1002,eth1/28,up,None (Unbound),W7X-UCSX-FI-B-ifp,W7X-UCSX-FI-B-ifsel,accbundle-W7X-UCSX-FI-B-ifpg,1001-1002
+1001,eth1/10,up,None (Unbound),L1001-L1002-PaloAlto-vpc,L1001-1002-PaloAlto-vpc-1_10,accbundle-ifpg-PaloAlto-vpc,1001-1002
+1002,eth1/10,up,None (Unbound),L1001-L1002-PaloAlto-vpc,L1001-1002-PaloAlto-vpc-1_10,accbundle-ifpg-PaloAlto-vpc,1001-1002
+1001,eth1/24,down,None (Unbound),W7X-PureReplication-B_ifp,W7X-PureReplication-B_ifsel,accbundle-W7X-PureReplication-B_ifpg,1001-1002
+1002,eth1/24,down,None (Unbound),W7X-PureReplication-B_ifp,W7X-PureReplication-B_ifsel,accbundle-W7X-PureReplication-B_ifpg,1001-1002
+1001,eth1/34,up,None (Unbound),w7x-cohesity-06_ifp,w7x-cohesity-06_ifsel,accbundle-w7x-cohesity-06_ifpg,1001-1002
+1002,eth1/34,up,None (Unbound),w7x-cohesity-06_ifp,w7x-cohesity-06_ifsel,accbundle-w7x-cohesity-06_ifpg,1001-1002
+1001,eth1/15,up,None (Unbound),W7X_WFS_09_ifp,W7X_WFS_09,accbundle-W7X_WFS_09_ifpg,1001-1002
+1002,eth1/15,up,None (Unbound),W7X_WFS_09_ifp,W7X_WFS_09,accbundle-W7X_WFS_09_ifpg,1001-1002
+1001,eth1/36,up,None (Unbound),w7x-cohesity-08_ifp,w7x-cohesity-08_ifsel,accbundle-w7x-cohesity-08_ifpg,1001-1002
+1002,eth1/36,up,None (Unbound),w7x-cohesity-08_ifp,w7x-cohesity-08_ifsel,accbundle-w7x-cohesity-08_ifpg,1001-1002
+1001,eth1/23,down,None (Unbound),W7X-PureReplication-A_ifp,W7X-PureReplication-A_ifsel,accbundle-W7X-PureReplication-A_ifpg,1001-1002
+1002,eth1/23,down,None (Unbound),W7X-PureReplication-A_ifp,W7X-PureReplication-A_ifsel,accbundle-W7X-PureReplication-A_ifpg,1001-1002
+1001,eth1/1,up,None (Unbound),classic_eth_ifp,eth1_1,accbundle-Classic_eth_ifpg,1001-1002
+1002,eth1/1,up,None (Unbound),classic_eth_ifp,eth1_1,accbundle-Classic_eth_ifpg,1001-1002
+1001,eth1/41,up,None (Unbound),w7x-cohesity-13_ifp,w7x-cohesity-13_ifsel,accbundle-w7x-cohesity-13_ifpg,1001-1002
+1002,eth1/41,up,None (Unbound),w7x-cohesity-13_ifp,w7x-cohesity-13_ifsel,accbundle-w7x-cohesity-13_ifpg,1001-1002
+1001,eth1/43,down,None (Unbound),W7X-UCSX-FI-A-ifp,if-L1001-P43-UCSx-FI-A-P43-44,accbundle-ifpg-W7th-static-UCSx-FI-A-P43-44,1001-1002
+1001,eth1/25,up,None (Unbound),W7X-UCSX-FI-A-ifp,W7X-UCSX-FI-A-ifsel,accbundle-W7X-UCSX-FI-A-ifpg,1001-1002
+1001,eth1/26,up,None (Unbound),W7X-UCSX-FI-A-ifp,W7X-UCSX-FI-A-ifsel,accbundle-W7X-UCSX-FI-A-ifpg,1001-1002
+1002,eth1/43,down,None (Unbound),W7X-UCSX-FI-A-ifp,if-L1001-P43-UCSx-FI-A-P43-44,accbundle-ifpg-W7th-static-UCSx-FI-A-P43-44,1001-1002
+1002,eth1/25,up,None (Unbound),W7X-UCSX-FI-A-ifp,W7X-UCSX-FI-A-ifsel,accbundle-W7X-UCSX-FI-A-ifpg,1001-1002
+1002,eth1/26,up,None (Unbound),W7X-UCSX-FI-A-ifp,W7X-UCSX-FI-A-ifsel,accbundle-W7X-UCSX-FI-A-ifpg,1001-1002
+1001,eth1/40,up,None (Unbound),w7x-cohesity-12_ifp,w7x-cohesity-12_ifsel,accbundle-w7x-cohesity-12_ifpg,1001-1002
+1002,eth1/40,up,None (Unbound),w7x-cohesity-12_ifp,w7x-cohesity-12_ifsel,accbundle-w7x-cohesity-12_ifpg,1001-1002
+1001,eth1/35,up,None (Unbound),w7x-cohesity-07_ifp,w7x-cohesity-07_ifsel,accbundle-w7x-cohesity-07_ifpg,1001-1002
+1002,eth1/35,up,None (Unbound),w7x-cohesity-07_ifp,w7x-cohesity-07_ifsel,accbundle-w7x-cohesity-07_ifpg,1001-1002
+1001,eth1/30,up,None (Unbound),w7x-cohesity-02_ifp,w7x-cohesity-02_ifsel,accbundle-w7x-cohesity-02_ifpg,1001-1002
+1002,eth1/30,up,None (Unbound),w7x-cohesity-02_ifp,w7x-cohesity-02_ifsel,accbundle-w7x-cohesity-02_ifpg,1001-1002
+1001,eth1/29,up,None (Unbound),w7x-cohesity-01_ifp,w7x-cohesity-01_ifsel,accbundle-w7x-cohesity-01_ifpg,1001-1002
+1002,eth1/29,up,None (Unbound),w7x-cohesity-01_ifp,w7x-cohesity-01_ifsel,accbundle-w7x-cohesity-01_ifpg,1001-1002
+1001,eth1/32,up,None (Unbound),w7x-cohesity-04_ifp,w7x-cohesity-04_ifsel,accbundle-w7x-cohesity-04_ifpg,1001-1002
+1002,eth1/32,up,None (Unbound),w7x-cohesity-04_ifp,w7x-cohesity-04_ifsel,accbundle-w7x-cohesity-04_ifpg,1001-1002
+1001,eth1/31,up,None (Unbound),w7x-cohesity-03_ifp,w7x-cohesity-03_ifsel,accbundle-w7x-cohesity-03_ifpg,1001-1002
+1002,eth1/31,up,None (Unbound),w7x-cohesity-03_ifp,w7x-cohesity-03_ifsel,accbundle-w7x-cohesity-03_ifpg,1001-1002
+1006,eth1/23,down,None (Unbound),ISQ-RPTSQL-04_P1,eth,accbundle-ISQ-RPTSQL-04_P1_ifpg,1006
+1006,eth1/24,down,None (Unbound),ISQ-RPTSQL-04_P1,eth,accbundle-ISQ-RPTSQL-04_P1_ifpg,1006
+1006,eth1/21,down,None (Unbound),ISQ-RPTSQL-03_P2_ifp,eth,accbundle-ISQ-RPTSQL-03_P2_ifpg,1006
+1006,eth1/22,down,None (Unbound),ISQ-RPTSQL-03_P2_ifp,eth,accbundle-ISQ-RPTSQL-03_P2_ifpg,1006
+1006,eth1/15,down,None (Unbound),ISQ-BCDB-03_P2_ifp,eth,accbundle-ISQ-BCDB-03_P2_ifpg,1006
+1006,eth1/16,down,None (Unbound),ISQ-BCDB-03_P2_ifp,eth,accbundle-ISQ-BCDB-03_P2_ifpg,1006
+1006,eth1/31,down,None (Unbound),W7XPRCONOPW01,W7XPRCONOPW01_ifp,accbundle-W7XPRCONOPW01,1006
+1006,eth1/32,down,None (Unbound),W7XPRCONOPW01,W7XPRCONOPW01_ifp,accbundle-W7XPRCONOPW01,1006
+1006,eth1/25,down,None (Unbound),ISQ-RPTSQL-04_P2_ifpg,eth,accbundle-ISQ-RPTSQL-04_P2_ifpg,1006
+1006,eth1/26,down,None (Unbound),ISQ-RPTSQL-04_P2_ifpg,eth,accbundle-ISQ-RPTSQL-04_P2_ifpg,1006
+1006,eth1/13,down,None (Unbound),ISQ-BCDB-03_P1_ifp,eth,accbundle-ISQ-BCDB-03_P1_ifpg,1006
+1006,eth1/14,down,None (Unbound),ISQ-BCDB-03_P1_ifp,eth,accbundle-ISQ-BCDB-03_P1_ifpg,1006
+1006,eth1/7,down,None (Unbound),W7XPRABBYPW02_P1_ifp,eth,accbundle-W7XPRABBYPW02_P1_ifpg,1006
+1006,eth1/8,down,None (Unbound),W7XPRABBYPW02_P1_ifp,eth,accbundle-W7XPRABBYPW02_P1_ifpg,1006
+1006,eth1/5,down,None (Unbound),W7XPRABBYPW01_P1_ifp,eth,accbundle-W7XPRABBYPW01_P1_ifpg,1006
+1006,eth1/6,down,None (Unbound),W7XPRABBYPW01_P1_ifp,eth,accbundle-W7XPRABBYPW01_P1_ifpg,1006
+1006,eth1/1,down,None (Unbound),W7XADNBCK02_P1_ifp,eth,accbundle-W7XADNBCK02_P1_ifpg,1006
+1006,eth1/2,down,None (Unbound),W7XADNBCK02_P1_ifp,eth,accbundle-W7XADNBCK02_P1_ifpg,1006
+1005,eth1/12,down,Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0,Access_Vlan11_ifp,eth,accportgrp-Access_Vlan10_ifpg,1005
+1005,eth1/46,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,W7X-WFS-09_CIMC_ifp,W7X-WFS-09_CIMC,accportgrp-1gbps_standard,1005
+1005,eth1/43,up,Production-TNT/Network-Centric_ANP/VLAN194_192.168.4.0,Cisco_Chassis_MGMT,Cisco_Chassis_MGMT,accportgrp-Access_Vlan194_ifpg,1005
+1005,eth1/49,down,Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0,Access_Vlan11_10Gb_ifp,Access_Vlan11_10Gb,accportgrp-Access_VLAN11_10Gb,1005
+1005,eth1/3,down,Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0 | Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0 | Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0 | Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0 | Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0 | Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0 | Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0 | Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0 | Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0 | Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0 | Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0 | Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0 | Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0 | Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0,F5_ifp,F5,accportgrp-Standalone_ESXI,1005
+1005,eth1/4,down,Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0 | Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0 | Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0 | Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0 | Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0 | Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0 | Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0 | Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0 | Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0 | Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0 | Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0 | Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0 | Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0 | Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0 | Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0,F5_ifp,F5,accportgrp-Standalone_ESXI,1005
+1005,eth1/5,down,Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0 | Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0 | Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0 | Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0 | Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0 | Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0 | Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0 | Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0 | Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0 | Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0 | Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0 | Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0 | Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0 | Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0 | Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0 | Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0,F5_ifp,F5,accportgrp-Standalone_ESXI,1005
+1005,eth1/6,down,Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0 | Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0 | Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0 | Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0 | Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0 | Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0 | Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0 | Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0 | Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0 | Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0 | Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0 | Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0 | Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0 | Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0 | Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,F5_ifp,F5,accportgrp-Standalone_ESXI,1005
+1005,eth1/7,down,Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0 | Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0 | Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0 | Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0 | Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0 | Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0 | Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0 | Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0 | Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0 | Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0 | Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0 | Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0 | Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0 | Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0 | Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0,F5_ifp,F5,accportgrp-Standalone_ESXI,1005
+1005,eth1/8,down,Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0 | Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0 | Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0 | Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0 | Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0 | Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0 | Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0 | Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0 | Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0 | Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0 | Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0 | Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0 | Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0 | Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0 | Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0,F5_ifp,F5,accportgrp-Standalone_ESXI,1005
+1005,eth1/9,down,Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0 | Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0 | Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0 | Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0 | Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0 | Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0 | Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0 | Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0 | Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0 | Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0 | Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0 | Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0 | Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0 | Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0 | Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0,F5_ifp,F5,accportgrp-Standalone_ESXI,1005
+1005,eth1/10,down,Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0 | Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0 | Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0 | Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0 | Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0 | Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0 | Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0 | Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0 | Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0 | Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0 | Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0 | Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0 | Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0 | Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0 | Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0,F5_ifp,F5,accportgrp-Standalone_ESXI,1005
+1005,eth1/25,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/26,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/27,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/28,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/29,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/30,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/31,down,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/32,down,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/33,down,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/34,down,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/35,down,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/36,down,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/37,down,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/38,down,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/39,down,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/40,down,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/41,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1005,eth1/42,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,LEAF1005-DRAC,LEAF1005-DRAC,accportgrp-IDRAC,1005
+1007,eth1/39,up,Production-TNT/Network-Centric_ANP/VLAN197_192.168.7.0,ifp-L1007-access-STND-auto,L1007-P39-APC2-Cohesity,accportgrp-ifpg-STND-access-auto,1007
+1007,eth1/14,up,Production-TNT/Network-Centric_ANP/VLAN197_192.168.7.0,ifp-L1007-access-STND-auto,L1007-P14-APC1-Cohesity,accportgrp-ifpg-STND-access-auto,1007
+1007,eth1/3,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-03_mgmt_ifp,w7x-cohesity-03_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/9,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-09_mgmt_ifp,w7x-cohesity-09_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/29,down,None (Unbound),BOW7XDCXP001_P1_ifp,eth,accbundle-BOW7XDCXP001_P1_ifpg,1007
+1007,eth1/30,down,None (Unbound),BOW7XDCXP001_P1_ifp,eth,accbundle-BOW7XDCXP001_P1_ifpg,1007
+1007,eth1/40,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/41,up,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/42,up,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/43,up,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/44,up,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/45,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/46,up,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/47,down,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/48,down,None (Unbound),IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/35,down,None (Unbound),IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/36,up,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/37,down,None (Unbound),IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/38,down,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,IDRAC,1007-IDRAC,accportgrp-IDRAC,1007
+1007,eth1/10,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-10_mgmt_ifp,w7x-cohesity-10_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/27,down,None (Unbound),W7XSTPIPWP01_P2_ifp,eth,accbundle-W7XSTPIPWP01_P2_ifpg,1007
+1007,eth1/28,down,None (Unbound),W7XSTPIPWP01_P2_ifp,eth,accbundle-W7XSTPIPWP01_P2_ifpg,1007
+1007,eth1/31,down,Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0,ISQ-NETMON-01_P1,eth,accportgrp-Access_Vlan10_ifpg,1007
+1007,eth1/4,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-04_mgmt_ifp,w7x-cohesity-04_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/33,down,None (Unbound),W7XPRABBYPW03_P1_ifp,eth,accbundle-W7XPRABBYPW03_P1_ifpg,1007
+1007,eth1/34,down,None (Unbound),W7XPRABBYPW03_P1_ifp,eth,accbundle-W7XPRABBYPW03_P1_ifpg,1007
+1007,eth1/25,down,None (Unbound),W7XSTPIPWP01_P1_ifp,eth,accbundle-W7XSTPIPWP01_P1_ifpg,1007
+1007,eth1/26,down,None (Unbound),W7XSTPIPWP01_P1_ifp,eth,accbundle-W7XSTPIPWP01_P1_ifpg,1007
+1007,eth1/6,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-06_mgmt_ifp,w7x-cohesity-06_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/8,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-08_mgmt_ifp,w7x-cohesity-08_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/1,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-01_mgmt_ifp,w7x-cohesity-01_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/5,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-05_mgmt_ifp,w7x-cohesity-05_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/7,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-07_mgmt_ifp,w7x-cohesity-07_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/13,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-13_mgmt_ifp,w7x-cohesity-13_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/11,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-11_mgmt_ifp,w7x-cohesity-11_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/2,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-02_mgmt_ifp,w7x-cohesity-02_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1007,eth1/12,up,Production-TNT/Network-Centric_ANP/VLAN196_192.168.6.0,w7x-cohesity-12_mgmt_ifp,w7x-cohesity-12_mgmt_ifsel,accportgrp-w7x-cohesity_mgmt_ifpg,1007
+1003,eth1/8,up,None (Unbound),ISQ-BCDB-03_P1_DATA_ifp,ISQ-BCDB-03_P1_DATA,accbundle-ISQ-BCDB-03_P1_DATA_ifpg,1003-1004
+1004,eth1/8,up,None (Unbound),ISQ-BCDB-03_P1_DATA_ifp,ISQ-BCDB-03_P1_DATA,accbundle-ISQ-BCDB-03_P1_DATA_ifpg,1003-1004
+1003,eth1/23,down,None (Unbound),W7X-PR-QNAP-01-DATA_ifp,W7X-PR-QNAP-01-DATA,accbundle-W7X-PR-QNAP_Data_ifpg,1003-1004
+1004,eth1/23,down,None (Unbound),W7X-PR-QNAP-01-DATA_ifp,W7X-PR-QNAP-01-DATA,accbundle-W7X-PR-QNAP_Data_ifpg,1003-1004
+1003,eth1/6,up,None (Unbound),W7XPRABBYPW01_P1_DATA_ifp,W7XPRABBYPW01_P1_DATA,accbundle-W7XPRABBYPW01_P1_DATA_ifpg,1003-1004
+1004,eth1/6,up,None (Unbound),W7XPRABBYPW01_P1_DATA_ifp,W7XPRABBYPW01_P1_DATA,accbundle-W7XPRABBYPW01_P1_DATA_ifpg,1003-1004
+1003,eth1/9,up,None (Unbound),ISQ-BCDB-03_P2_DATA_ifp,ISQ-BCDB-03_P2_DATA,accbundle-ISQ-BCDB-03_P2_DATA_ifpg,1003-1004
+1004,eth1/9,up,None (Unbound),ISQ-BCDB-03_P2_DATA_ifp,ISQ-BCDB-03_P2_DATA,accbundle-ISQ-BCDB-03_P2_DATA_ifpg,1003-1004
+1003,eth1/7,up,None (Unbound),W7XPRABBYPW02_P1_DATA_ifp,W7XPRABBYPW02_P1_DATA,accbundle-W7XPRABBYPW02_P1_DATA_ifpg,1003-1004
+1004,eth1/7,up,None (Unbound),W7XPRABBYPW02_P1_DATA_ifp,W7XPRABBYPW02_P1_DATA,accbundle-W7XPRABBYPW02_P1_DATA_ifpg,1003-1004
+1003,eth1/12,up,None (Unbound),ISQ-RPTSQL-04_P1_DATA_ifp,ISQ-RPTSQL-04_P1_DATA,accbundle-ISQ-RPTSQL-04_P1_DATA_ifpg,1003-1004
+1004,eth1/12,up,None (Unbound),ISQ-RPTSQL-04_P1_DATA_ifp,ISQ-RPTSQL-04_P1_DATA,accbundle-ISQ-RPTSQL-04_P1_DATA_ifpg,1003-1004
+1003,eth1/11,up,None (Unbound),ISQ-RPTSQL-03_P2_DATA_ifp,ISQ-RPTSQL-03_P2_DATA,accbundle-ISQ-RPTSQL-03_P2_DATA_ifpg,1003-1004
+1004,eth1/11,up,None (Unbound),ISQ-RPTSQL-03_P2_DATA_ifp,ISQ-RPTSQL-03_P2_DATA,accbundle-ISQ-RPTSQL-03_P2_DATA_ifpg,1003-1004
+1003,eth1/5,down,None (Unbound),W7XADNBCK02_P1_DATA_ifp,W7XADNBCK02_P1_DATA,accbundle-W7XADNBCK02_P1_DATA_ifpg,1003-1004
+1004,eth1/5,down,None (Unbound),W7XADNBCK02_P1_DATA_ifp,W7XADNBCK02_P1_DATA,accbundle-W7XADNBCK02_P1_DATA_ifpg,1003-1004
+1003,eth1/10,up,None (Unbound),ISQ-RPTSQL-03_P1_DATA_ifp,ISQ-RPTSQL-03_P1_DATA,accbundle-ISQ-RPTSQL-03_P1_DATA_ifpg,1003-1004
+1004,eth1/10,up,None (Unbound),ISQ-RPTSQL-03_P1_DATA_ifp,ISQ-RPTSQL-03_P1_DATA,accbundle-ISQ-RPTSQL-03_P1_DATA_ifpg,1003-1004
+1003,eth1/14,down,None (Unbound),W7XPRCONOPW01_DATA_ifp,W7XPRCONOPW01_DATA,accbundle-W7XPRCONOPW01_DATA_ifpg,1003-1004
+1004,eth1/14,down,None (Unbound),W7XPRCONOPW01_DATA_ifp,W7XPRCONOPW01_DATA,accbundle-W7XPRCONOPW01_DATA_ifpg,1003-1004
+1003,eth1/13,up,None (Unbound),ISQ-RPTSQL-04_P2_DATA_ifp,ISQ-RPTSQL-04_P2_DATA,accbundle-ISQ-RPTSQL-04_P2_DATA_ifpg,1003-1004
+1004,eth1/13,up,None (Unbound),ISQ-RPTSQL-04_P2_DATA_ifp,ISQ-RPTSQL-04_P2_DATA,accbundle-ISQ-RPTSQL-04_P2_DATA_ifpg,1003-1004
+1004,eth1/28,up,Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0,W7XDVSQLX01_P1_DATA_ifp,W7XDVSQLX01_P1_DATA,accportgrp-1gbps_standard,1004
+1004,eth1/45,up,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,W7XPRCONOPW01-DRAC_ifp,W7XPRCONOPW01-DRAC,accportgrp-1gbps_standard,1004
+1004,eth1/38,down,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,W7XSTPIPWE01-DRAC_ifp,W7XSTPIPWE01-DRAC,accportgrp-1gbps_standard,1004
+1004,eth1/26,up,Production-TNT/Network-Centric_ANP/VLAN194_192.168.4.0,W7th-PureStorage_MGMT,W7th-PureStorage_MGMT,accportgrp-Access_Vlan194_ifpg,1004
+1004,eth1/44,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,W7ABBY02-DRAC_ifp,W7ABBY02-DRAC,accportgrp-1gbps_standard,1004
+1004,eth1/43,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,W7ABBY01-DRAC_ifp,W7ABBY01-DRAC,accportgrp-1gbps_standard,1004
+1004,eth1/37,up,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,ISQ-RPTSQL-03-DRAC_ifp,ISQ-RPTSQL-03-DRAC,accportgrp-1gbps_standard,1004
+1004,eth1/42,up,Production-TNT/Network-Centric_ANP/VLAN194_192.168.4.0,Cisco_UCS_Chassis_MGMT_ifp,Cisco_UCS_Chassis_MGMT,accportgrp-1gbps_standard,1004
+1004,eth1/35,up,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,ISQ-BCDC03-DRAC_ifp,ISQ-BCDC03-DRAC,accportgrp-1gbps_standard,1004
+1004,eth1/25,up,Production-TNT/Network-Centric_ANP/VLAN194_192.168.4.0,W7th-Brocade-MGMT,W7th-Brocade-MGMT,accportgrp-Access_Vlan194_ifpg,1004
+1004,eth1/36,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,W7XADVSQL01-DRAC_ifp,W7XADVSQL01-DRAC,accportgrp-1gbps_standard,1004
+1004,eth1/39,up,Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0,BOW7XDCXP001-DRAC_ifp,BOW7XDCXP001-DRAC,accportgrp-1gbps_standard,1004
+1004,eth1/27,up,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,W7X-PR-QNAP-01-MGMT_ifp,W7X-PR-QNAP-01-MGMT,accportgrp-1gbps_standard,1004
+1004,eth1/40,up,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,ISQ-ESXSVR-03-DRAC_ifp,ISQ-ESXSVR-03-DRAC,accportgrp-1gbps_standard,1004
+1004,eth1/41,down,Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0,W7XADNBCK02-DRAC_ifp,W7XADNBCK02-DRAC,accportgrp-1gbps_standard,1004
