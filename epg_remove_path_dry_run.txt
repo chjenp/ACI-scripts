@@ -1,0 +1,656 @@
+APIC IP/Hostname: Username: 
+Processing Interface 1005/eth1/12 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN11_10.4.6.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/12]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/12]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0
+
+Processing Interface 1005/eth1/49 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN11_10.4.6.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/49]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/49]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0
+
+Processing Interface 1005/eth1/3 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN101_10.4.50.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN79_10.7.9.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN172_172.1.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN51_10.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN75_10.7.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN19_10.7.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN11_10.4.6.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN15_10.25.10.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN16_10.6.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN13_10.25.20.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN73_10.7.3.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN14_172.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN10_10.4.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN18_10.6.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/3]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/3]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0
+
+Processing Interface 1005/eth1/4 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN19_10.7.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN101_10.4.50.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN51_10.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN172_172.1.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN95_10.9.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN15_10.25.10.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN11_10.4.6.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN10_10.4.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN75_10.7.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN79_10.7.9.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN13_10.25.20.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN73_10.7.3.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN16_10.6.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN14_172.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN18_10.6.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/4]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/4]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0
+
+Processing Interface 1005/eth1/5 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN11_10.4.6.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN79_10.7.9.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN19_10.7.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN75_10.7.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN51_10.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN101_10.4.50.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN95_10.9.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN18_10.6.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN15_10.25.10.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN13_10.25.20.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN16_10.6.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN10_10.4.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN172_172.1.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN73_10.7.3.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN14_172.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/5]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/5]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0
+
+Processing Interface 1005/eth1/6 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN95_10.9.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN79_10.7.9.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN15_10.25.10.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN75_10.7.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN13_10.25.20.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN172_172.1.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN18_10.6.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN73_10.7.3.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN101_10.4.50.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN51_10.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN11_10.4.6.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN16_10.6.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN14_172.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN10_10.4.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN19_10.7.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/6]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/6]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+Processing Interface 1005/eth1/7 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN51_10.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN79_10.7.9.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN101_10.4.50.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN75_10.7.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN15_10.25.10.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN11_10.4.6.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN19_10.7.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN95_10.9.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN13_10.25.20.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN73_10.7.3.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN16_10.6.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN172_172.1.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN14_172.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN18_10.6.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN10_10.4.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/7]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/7]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0
+
+Processing Interface 1005/eth1/8 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN18_10.6.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN95_10.9.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN51_10.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN79_10.7.9.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN15_10.25.10.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN75_10.7.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN101_10.4.50.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN172_172.1.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN19_10.7.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN13_10.25.20.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN73_10.7.3.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN16_10.6.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN14_172.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN10_10.4.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN11_10.4.6.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/8]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/8]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0
+
+Processing Interface 1005/eth1/9 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN51_10.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN15_10.25.10.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN172_172.1.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN75_10.7.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN95_10.9.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN95_10.9.5.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN101_10.4.50.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN19_10.7.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN79_10.7.9.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN14_172.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN11_10.4.6.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN73_10.7.3.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN13_10.25.20.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN16_10.6.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN10_10.4.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN18_10.6.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/9]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/9]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0
+
+Processing Interface 1005/eth1/10 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN101_10.4.50.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN101_10.4.50.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN15_10.25.10.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN15_10.25.10.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN172_172.1.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN172_172.1.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN51_10.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN51_10.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN11_10.4.6.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN11_10.4.6.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN79_10.7.9.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN79_10.7.9.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN10_10.4.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN19_10.7.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN19_10.7.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN13_10.25.20.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN13_10.25.20.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN73_10.7.3.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN73_10.7.3.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN16_10.6.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN16_10.6.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN14_172.5.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN14_172.5.1.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN18_10.6.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN18_10.6.2.0
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN75_10.7.5.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/10]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/10]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN75_10.7.5.0
+
+Processing Interface 1005/eth1/31 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/31]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/31]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+Processing Interface 1005/eth1/32 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/32]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/32]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+Processing Interface 1005/eth1/33 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/33]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/33]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+Processing Interface 1005/eth1/34 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/34]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/34]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+Processing Interface 1005/eth1/35 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/35]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/35]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+Processing Interface 1005/eth1/36 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/36]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/36]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+Processing Interface 1005/eth1/37 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/37]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/37]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+Processing Interface 1005/eth1/38 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/38]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/38]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+Processing Interface 1005/eth1/39 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/39]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/39]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0
+
+Processing Interface 1005/eth1/40 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rspathAtt-[topology/pod-1/paths-1005/pathep-[eth1/40]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1005/pathep-[eth1/40]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0
+
+Processing Interface 1007/eth1/47 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rspathAtt-[topology/pod-1/paths-1007/pathep-[eth1/47]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1007/pathep-[eth1/47]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN193_192.168.2.0
+
+Processing Interface 1007/eth1/38 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1007/pathep-[eth1/38]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1007/pathep-[eth1/38]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+Processing Interface 1007/eth1/31 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN10_10.4.1.0/rspathAtt-[topology/pod-1/paths-1007/pathep-[eth1/31]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1007/pathep-[eth1/31]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN10_10.4.1.0
+
+Processing Interface 1004/eth1/38 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1004/pathep-[eth1/38]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1004/pathep-[eth1/38]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+Processing Interface 1004/eth1/41 (Status: down)
+ [DN PATH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rspathAtt-[topology/pod-1/paths-1004/pathep-[eth1/41]]
+ [XML PREVIEW] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsPathAtt status='deleted' tDn='topology/pod-1/paths-1004/pathep-[eth1/41]'></fvRsPathAtt>
+ [DRY RUN] Identified for deletion: Production-TNT/Network-Centric_ANP/VLAN192_192.168.1.0
+
+DRY RUN COMPLETE: Found 151 changes identified above. Set DRY_RUN=False to execute.
