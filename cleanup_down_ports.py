@@ -12,7 +12,6 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # --- SETTINGS ---
 DRY_RUN = True  # SET TO False TO ACTUALLY DELETE
 
-
 def parse_inventory_file(file_path):
     records = []
     
@@ -46,7 +45,6 @@ def parse_inventory_file(file_path):
                 })
 
     return records
-
 
 def main():
     if len(sys.argv) < 2:
@@ -94,60 +92,64 @@ def main():
     ports_verified_down = 0
     ports_up_skipped = 0
     queued = 0
-    processed_selectors = set()
 
     try:
+        # Group ports by their selector DN
+        selectors_to_check = {}
+        
         for item in records:
             node = item["node"]
             port = item["port"]
             int_prof = item["int_prof"]
             selector = item["selector"]
-
-            # Double-check the physical port's operational state live on the fabric
-            # DN format: topology/pod-1/node-101/sys/phys-[eth1/10]/phys
-            port_phys_dn = f"topology/pod-1/node-{node}/sys/phys-[{port}]/phys"
-            phys_mo = mo_directory.lookupByDn(port_phys_dn)
-
-            if not phys_mo:
-                print(f"[NOT FOUND] Physical Port {node} {port} does not exist in fabric.")
-                continue
-
-            oper_st = phys_mo.operSt
-
-            if oper_st == "up":
-                ports_up_skipped += 1
-                print(f"[SAFETY SKIP] Port {node} {port} was 'down' in CSV, but is now 'UP' in APIC. Skipping.")
-                continue
-
-            ports_verified_down += 1
-            print(f"[DOWN] Port {node} {port} is verified DOWN. Locating configuration...")
-
-            # Build the DN for the Interface Selector
+            
             selector_dn = f"uni/infra/accportprof-{int_prof}/hports-{selector}-typ-range"
             
-            # Prevent attempting to delete the exact same selector multiple times 
-            # (e.g. if eth1/1 and eth1/2 use the exact same selector name)
-            if selector_dn in processed_selectors:
-                print(f"  -> [DUPLICATE] Selector {selector_dn} is already queued for deletion.")
-                continue
+            if selector_dn not in selectors_to_check:
+                selectors_to_check[selector_dn] = []
+                
+            selectors_to_check[selector_dn].append({"node": node, "port": port})
 
-            selector_mo = mo_directory.lookupByDn(selector_dn)
-
-            if not selector_mo:
-                print(f"  -> [NOT FOUND] Profile Selector {selector_dn} is already deleted.")
-                continue
-
-            # Add to set so we don't duplicate it
-            processed_selectors.add(selector_dn)
-            selector_mo.delete()
-            print(f"  -> [MATCH] Deleting Selector: {selector_dn}")
-
-            if not DRY_RUN:
-                config_request.addMo(selector_mo)
-                queued += 1
-                print("  -> [QUEUED] Marked for deletion")
+        # Now evaluate safety PER SELECTOR
+        for selector_dn, ports in selectors_to_check.items():
+            print(f"\nEvaluating Selector: {selector_dn}")
+            
+            safe_to_delete = True
+            
+            # Check every port inside this selector
+            for p in ports:
+                port_phys_dn = f"topology/pod-1/node-{p['node']}/sys/phys-[{p['port']}]/phys"
+                phys_mo = mo_directory.lookupByDn(port_phys_dn)
+                
+                if not phys_mo:
+                    print(f"  -> [NOT FOUND] Port {p['node']} {p['port']} missing in APIC.")
+                    continue
+                    
+                if phys_mo.operSt == "up":
+                    print(f"  -> [DANGER] Port {p['node']} {p['port']} is UP! Aborting deletion for this selector.")
+                    safe_to_delete = False
+                    ports_up_skipped += 1
+                    break # We found an UP port, no need to check the rest in this selector
+                else:
+                    print(f"  -> [DOWN] Port {p['node']} {p['port']} is verified DOWN.")
+                    ports_verified_down += 1
+                    
+            # Only queue the selector for deletion if NO ports were UP
+            if safe_to_delete:
+                selector_mo = mo_directory.lookupByDn(selector_dn)
+                if not selector_mo:
+                    print(f"  -> [ALREADY DELETED] Selector not found in APIC.")
+                    continue
+                    
+                print(f"  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.")
+                selector_mo.delete()
+                if not DRY_RUN:
+                    config_request.addMo(selector_mo)
+                    queued += 1
+                else:
+                    print("  -> [DRY-RUN] No commit will be performed.")
             else:
-                print("  -> [DRY-RUN] No commit will be performed")
+                print(f"  -> [SKIPPED] Selector {selector_dn} kept because at least one port is UP.")
 
         # 3. Commit changes to APIC
         if not DRY_RUN and queued > 0:
