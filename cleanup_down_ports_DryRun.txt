@@ -1,0 +1,213 @@
+=== APIC Authentication ===
+APIC IP or hostname: Username: 
+Reading inventory file...
+Found 78 'down' ports to process.
+Mode: DRY-RUN
+Successfully logged into APIC.
+
+
+Evaluating Selector: uni/infra/accportprof-W7XPRSQLCWP02/hports-W7XPRSQLCWP02_ifp-typ-range
+  -> [DOWN] Port 1003 eth1/1 is verified DOWN.
+  -> [DOWN] Port 1003 eth1/2 is verified DOWN.
+  -> [DOWN] Port 1003 eth1/3 is verified DOWN.
+  -> [DOWN] Port 1003 eth1/4 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-L1005-L1006-vPC-Generic/hports-Cohesity-Test-srv_eth1_2-typ-range
+  -> [DOWN] Port 1005 eth1/11 is verified DOWN.
+  -> [DOWN] Port 1006 eth1/11 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-DellChassis_ifp/hports-MX1000-typ-range
+  -> [DOWN] Port 1001 eth1/3 is verified DOWN.
+  -> [DOWN] Port 1001 eth1/4 is verified DOWN.
+  -> [DOWN] Port 1002 eth1/3 is verified DOWN.
+  -> [DOWN] Port 1002 eth1/4 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7X-UCSX-FI-B-ifp/hports-if-L1001-P44-UCSx-FI-B-P43-44-typ-range
+  -> [DOWN] Port 1001 eth1/44 is verified DOWN.
+  -> [DOWN] Port 1002 eth1/44 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7X-PureReplication-B_ifp/hports-W7X-PureReplication-B_ifsel-typ-range
+  -> [DOWN] Port 1001 eth1/24 is verified DOWN.
+  -> [DOWN] Port 1002 eth1/24 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7X-PureReplication-A_ifp/hports-W7X-PureReplication-A_ifsel-typ-range
+  -> [DOWN] Port 1001 eth1/23 is verified DOWN.
+  -> [DOWN] Port 1002 eth1/23 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7X-UCSX-FI-A-ifp/hports-if-L1001-P43-UCSx-FI-A-P43-44-typ-range
+  -> [DOWN] Port 1001 eth1/43 is verified DOWN.
+  -> [DOWN] Port 1002 eth1/43 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-ISQ-RPTSQL-04_P1/hports-eth-typ-range
+  -> [DOWN] Port 1006 eth1/23 is verified DOWN.
+  -> [DOWN] Port 1006 eth1/24 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-ISQ-RPTSQL-03_P2_ifp/hports-eth-typ-range
+  -> [DOWN] Port 1006 eth1/21 is verified DOWN.
+  -> [DOWN] Port 1006 eth1/22 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-ISQ-BCDB-03_P2_ifp/hports-eth-typ-range
+  -> [DOWN] Port 1006 eth1/15 is verified DOWN.
+  -> [DOWN] Port 1006 eth1/16 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7XPRCONOPW01/hports-W7XPRCONOPW01_ifp-typ-range
+  -> [DOWN] Port 1006 eth1/31 is verified DOWN.
+  -> [DOWN] Port 1006 eth1/32 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-ISQ-RPTSQL-04_P2_ifpg/hports-eth-typ-range
+  -> [DOWN] Port 1006 eth1/25 is verified DOWN.
+  -> [DOWN] Port 1006 eth1/26 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-ISQ-BCDB-03_P1_ifp/hports-eth-typ-range
+  -> [DOWN] Port 1006 eth1/13 is verified DOWN.
+  -> [DOWN] Port 1006 eth1/14 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7XPRABBYPW02_P1_ifp/hports-eth-typ-range
+  -> [DOWN] Port 1006 eth1/7 is verified DOWN.
+  -> [DOWN] Port 1006 eth1/8 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7XPRABBYPW01_P1_ifp/hports-eth-typ-range
+  -> [DOWN] Port 1006 eth1/5 is verified DOWN.
+  -> [DOWN] Port 1006 eth1/6 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7XADNBCK02_P1_ifp/hports-eth-typ-range
+  -> [DOWN] Port 1006 eth1/1 is verified DOWN.
+  -> [DOWN] Port 1006 eth1/2 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-Access_Vlan11_ifp/hports-eth-typ-range
+  -> [DOWN] Port 1005 eth1/12 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-Access_Vlan11_10Gb_ifp/hports-Access_Vlan11_10Gb-typ-range
+  -> [DOWN] Port 1005 eth1/49 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-F5_ifp/hports-F5-typ-range
+  -> [DOWN] Port 1005 eth1/3 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/4 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/5 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/6 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/7 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/8 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/9 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/10 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-LEAF1005-DRAC/hports-LEAF1005-DRAC-typ-range
+  -> [DOWN] Port 1005 eth1/31 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/32 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/33 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/34 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/35 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/36 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/37 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/38 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/39 is verified DOWN.
+  -> [DOWN] Port 1005 eth1/40 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-BOW7XDCXP001_P1_ifp/hports-eth-typ-range
+  -> [DOWN] Port 1007 eth1/29 is verified DOWN.
+  -> [DOWN] Port 1007 eth1/30 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-IDRAC/hports-1007-IDRAC-typ-range
+  -> [DOWN] Port 1007 eth1/47 is verified DOWN.
+  -> [DOWN] Port 1007 eth1/48 is verified DOWN.
+  -> [DOWN] Port 1007 eth1/35 is verified DOWN.
+  -> [DOWN] Port 1007 eth1/37 is verified DOWN.
+  -> [DOWN] Port 1007 eth1/38 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7XSTPIPWP01_P2_ifp/hports-eth-typ-range
+  -> [DOWN] Port 1007 eth1/27 is verified DOWN.
+  -> [DOWN] Port 1007 eth1/28 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-ISQ-NETMON-01_P1/hports-eth-typ-range
+  -> [DOWN] Port 1007 eth1/31 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7XPRABBYPW03_P1_ifp/hports-eth-typ-range
+  -> [DOWN] Port 1007 eth1/33 is verified DOWN.
+  -> [DOWN] Port 1007 eth1/34 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7XSTPIPWP01_P1_ifp/hports-eth-typ-range
+  -> [DOWN] Port 1007 eth1/25 is verified DOWN.
+  -> [DOWN] Port 1007 eth1/26 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7X-PR-QNAP-01-DATA_ifp/hports-W7X-PR-QNAP-01-DATA-typ-range
+  -> [DOWN] Port 1003 eth1/23 is verified DOWN.
+  -> [DOWN] Port 1004 eth1/23 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7XADNBCK02_P1_DATA_ifp/hports-W7XADNBCK02_P1_DATA-typ-range
+  -> [DOWN] Port 1003 eth1/5 is verified DOWN.
+  -> [DOWN] Port 1004 eth1/5 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7XPRCONOPW01_DATA_ifp/hports-W7XPRCONOPW01_DATA-typ-range
+  -> [DOWN] Port 1003 eth1/14 is verified DOWN.
+  -> [DOWN] Port 1004 eth1/14 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7XSTPIPWE01-DRAC_ifp/hports-W7XSTPIPWE01-DRAC-typ-range
+  -> [DOWN] Port 1004 eth1/38 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Evaluating Selector: uni/infra/accportprof-W7XADNBCK02-DRAC_ifp/hports-W7XADNBCK02-DRAC-typ-range
+  -> [DOWN] Port 1004 eth1/41 is verified DOWN.
+  -> [SAFE] All evaluated ports are DOWN. Queuing selector for deletion.
+  -> [DRY-RUN] No commit will be performed.
+
+Dry-run complete. Set DRY_RUN=False to apply changes.
+
+Summary: Total Parsed=78, Verified DOWN=78, Skipped (Now UP)=0, Unique Profiles Queued for Deletion=31
