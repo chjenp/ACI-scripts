@@ -1,0 +1,106 @@
+=== APIC Authentication ===
+APIC IP or hostname: Username: 
+Parsed 33 unique AP/EPG entries (0 malformed lines skipped).
+Mode: DRY-RUN
+Successfully logged into APIC.
+
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN10_10.4.1.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN11_10.4.6.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN13_10.25.20.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN14_172.5.1.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN15_10.25.10.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN16_10.6.1.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Appliances/epg-DMZ/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN18_10.6.2.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN19_10.7.2.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Appliances/epg-CyrusOne-Inet/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN22_10.7.22.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN51_10.5.1.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN52_10.5.2.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN66-66.161.174.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN73_10.7.3.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN75_10.7.5.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN79_10.7.9.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN95_10.9.5.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN96_10.9.6.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN98_10.9.8.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN101_10.4.50.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN172_172.1.1.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Appliances/epg-F5_VLAN10_10.4.1.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Appliances/epg-F5_VLAN13_10.25.20.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Appliances/epg-F5_VLAN14_172.5.1.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Appliances/epg-F5_VLAN172_172.1.1.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Appliances/epg-F5_VLAN192_192.168.1.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Appliances/epg-F5_VLAN193_192.168.2.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN192_192.168.1.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN193_192.168.2.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[MATCH] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN194_192.168.4.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[XML] <?xml version="1.0" encoding="UTF-8"?>
+<fvRsDomAtt status='deleted' tDn='uni/vmmp-VMware/dom-W7_MX1000_VDS-New'></fvRsDomAtt>
+[DRY-RUN] No commit will be performed
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN196_192.168.6.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+[NOT FOUND] uni/tn-Production-TNT/ap-Network-Centric_ANP/epg-VLAN255_10.252.252.0/rsdomAtt-[uni/vmmp-VMware/dom-W7_MX1000_VDS-New]
+
+Dry-run complete. Set DRY_RUN=False to apply changes.
+
+Summary: parsed=33, found=21, missing=12, queued=0, malformed=0
